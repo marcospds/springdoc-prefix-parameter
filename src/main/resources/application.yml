@@ -1,0 +1,5 @@
+spring:
+  data:
+    web:
+      pageable:
+        prefix: prefix_
